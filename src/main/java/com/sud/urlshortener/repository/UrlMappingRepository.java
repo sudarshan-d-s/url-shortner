@@ -1,6 +1,6 @@
-package com.sud.urlshortner.repository;
+package com.sud.urlshortener.repository;
 
-import com.sud.urlshortner.entity.UrlMapping;
+import com.sud.urlshortener.entity.UrlMapping;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,4 +1,4 @@
-package com.sud.urlshortner.entity;
+package com.sud.urlshortener.entity;
 
 import jakarta.persistence.*;
 
